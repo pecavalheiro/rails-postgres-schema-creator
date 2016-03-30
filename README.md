@@ -5,7 +5,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'postgres_schema_creator'
+gem 'postgres_schema_creator', git: 'https://github.com/pecavalheiro/rails-postgres-schema-creator'
 ```
 
 And then execute:

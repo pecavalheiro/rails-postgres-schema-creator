@@ -10,12 +10,8 @@ gem 'postgres_schema_creator', git: 'https://github.com/pecavalheiro/rails-postg
 
 And then execute:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install postgres_schema_creator
-
+    $ bundle install
+    
 ## Usage
 
 ```

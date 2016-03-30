@@ -11,7 +11,7 @@ gem 'postgres_schema_creator', git: 'https://github.com/pecavalheiro/rails-postg
 And then execute:
 
     $ bundle install
-    
+
 ## Usage
 
 ```
@@ -27,7 +27,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pecavalheiro/postgres_schema_creator. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/pecavalheiro/rails-postgres-schema-creator. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 

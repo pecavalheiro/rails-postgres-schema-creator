@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Pedro Cavalheiro"]
   spec.email         = ["pedrohc@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Helps creating schemas for PostgreSQL based applications"
+  spec.description   = "This creates a hook in 'rake db:create' to create PostgreSQL's schema, if needed (schema name is defined by schema_search_path in config/database.yml ). It also checks if the schema already exists, to avoid any errors."
+  spec.homepage      = "https://github.com/pecavalheiro/rails-postgres-schema-creator"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or

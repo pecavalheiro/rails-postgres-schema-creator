@@ -1,5 +1,3 @@
-require "postgres_schema_creator/version"
-
 module PostgresSchemaCreator
-  # Your code goes here...
+  require 'postgres_schema_creator/railtie' if defined?(Rails)
 end
